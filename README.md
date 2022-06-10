@@ -1,5 +1,5 @@
 ## 📖  To read
-
+- [Design Pattern for Managing Forms in React](https://medium.com/geekculture/the-1-best-design-pattern-for-managing-forms-in-react-87ae825c98f4)
 
 <hr>
 
